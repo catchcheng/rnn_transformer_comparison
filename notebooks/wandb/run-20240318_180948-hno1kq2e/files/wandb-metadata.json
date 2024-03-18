@@ -1,0 +1,147 @@
+{
+    "os": "Linux-6.5.0-25-generic-x86_64-with-glibc2.35",
+    "python": "3.11.6",
+    "heartbeatAt": "2024-03-18T22:09:49.084457",
+    "startedAt": "2024-03-18T22:09:48.720309",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Documents/kaggle/rnn_transformer_comparison/notebooks/Untitled.ipynb",
+    "codePathLocal": null,
+    "root": "/home/cheng-ubuntu/Documents/kaggle/rnn_transformer_comparison",
+    "git": {
+        "remote": "https://github.com/catchcheng/rnn_transformer_comparison.git",
+        "commit": "b09392d475305e24f2b5a808f3463218e9e421fc"
+    },
+    "email": "catchcheng@gmail.com",
+    "host": "cheng-ubuntu",
+    "username": "cheng-ubuntu",
+    "executable": "/home/cheng-ubuntu/anaconda3/envs/6758hmk4/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 1278.7768,
+        "min": 800.0,
+        "max": 4700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 828.047,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 2250.817,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 2086.52,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 2063.081,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 1963.218,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 1428.141,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2003.767,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 928.474,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2133.183,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 1950.377,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 815.522,
+            "min": 800.0,
+            "max": 3800.0
+        },
+        {
+            "current": 800.084,
+            "min": 800.0,
+            "max": 3800.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3800.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 3800.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1832.2072448730469,
+            "used": 280.1031379699707
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 62.60203552246094
+    }
+}
