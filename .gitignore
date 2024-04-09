@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 logs
 wandb
+rwkv-4-169m-pile-finetuned-xsum
